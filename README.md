@@ -1,1 +1,5 @@
-#﻿# Data_Analytics
+﻿# Data Analytics Tasks
+
+## Contents:
+* Report File
+* Interactive Python Notebook
