@@ -6,14 +6,15 @@
 1. Dataset Shape: 6704 rows (Excluding Headings) and 6 columns
 2. Identified blank rows using
 <p align="center">
-    <em>(Ctrl + G) → (Special) → (Blanks)</em><br>
-Then deleted blank rows using 
-</p> 
+    <em>(Ctrl + G) → (Special) → (Blanks)</em> 
+</p>
+
+3. Then deleted blank rows using
 <p align="center">
     <em>(Ctrl + -) → (Entire Row)</em>
 </p>
 
-3. Dataset Shape After Removing Blank Rows: *(6698 × 6)*
+4. Dataset Shape After Removing Blank Rows: *(6698 × 6)*
 
 ## Finding 2
 1. The dataset contains 4911 duplicates. Duplicates are identified from the *(Data Tab)* → *(Remove Duplicates)* → *(Select All Columns)*
