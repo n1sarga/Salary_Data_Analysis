@@ -14,3 +14,4 @@
 # Finding 3
 1. Dataset Headings: *Age*, *Gender*, *Education Level*, *Job Title*, *Years of Experience*, and *Salary*
 2. *Education Level* column contained redundant entries such as *Bachelor's Degree*, *Bachelor's*, *Master's Degree*, *Master's*, etc. Renamed *Bachelor's Degree* → *Bachelor's* and *Master's Degree* → *Master's* by *Editing* → *Find & Select* → *Replace* from *Home Tab*
+3. Saved the cleaned dataset in pdf format on *./Reports/Dataset/Cleaned_Dataset.pdf*
