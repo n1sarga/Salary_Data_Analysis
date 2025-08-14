@@ -7,8 +7,8 @@
 2. Identified blank rows using
 <p align="center">
     <em>(Ctrl + G) → (Special) → (Blanks)</em>
+Then deleted blank rows using 
 </p> 
-    Then deleted blank rows using 
 <p align="center">
     <em>(Ctrl + -) → (Entire Row)</em>
 </p>
