@@ -4,7 +4,7 @@
 3. Font Color: White
 4. Fill Color: Green
 
-## Finding 1
+## Removing Null Values (Blank Rows/Cells)
 1. Dataset Shape: *6704 × 6*
 
 2. Identified blank rows using
@@ -19,7 +19,7 @@
 
 4. Dataset Shape After Removing Blank Rows: *6698 × 6*
 
-## Finding 2
+## Removing Duplicates
 1. The dataset contains 4911 duplicates. Duplicates are identified from the 
 <p align="center">
     <em>(Data Tab) → (Remove Duplicates) → (Select All Columns)</em>
@@ -27,7 +27,7 @@
 
 2. Dataset Shape After Removing Duplicates: *(1787 × 6)*
 
-## Finding 3
+## Renaming Redundant Entries
 1. Dataset Headings: *Age*, *Gender*, *Education Level*, *Job Title*, *Years of Experience*, and *Salary*
 2. *Education Level* column contained redundant entries such as *Bachelor's Degree*, *Bachelor's*, *Master's Degree*, *Master's*, etc. Renamed *Bachelor's Degree* → *Bachelor's* and *Master's Degree* → *Master's* by 
 <p align="center">
@@ -35,7 +35,7 @@
     
 3. Saved the cleaned dataset in pdf format on *./Reports/Dataset/Cleaned_Dataset.pdf*
 
-## Finding 4
+## Checked Data Types
 1. Identified data types of each column using a nested formula. For identifying text, *=ISTEXT()* formula is used. Similarly for number, *=ISNUMBER()* is used. The range (A2:A1788 for Age and so on) was given inside the formulas. These formulas were used inside the *=IF()* formula to check if it is a number or a text. Example formula is:
 <p align="center">
   <em>=IF (ISNUMBER (A2:A1788), "Number", "NaN")</em>
