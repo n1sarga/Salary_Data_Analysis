@@ -3,7 +3,11 @@
 2. Font Type: Bold, Font Color: White, Fill Color: Green
 
 ## Finding 1
-1. Dataset Shape: 6704 rows (Excluding Headings) and 6 columns
+1. Dataset Shape:
+<p align="center">
+<em>6704 × 6</em>
+</p>
+
 2. Identified blank rows using
 <p align="center">
     <em>(Ctrl + G) → (Special) → (Blanks)</em> 
@@ -14,7 +18,10 @@
     <em>(Ctrl + -) → (Entire Row)</em>
 </p>
 
-4. Dataset Shape After Removing Blank Rows: *(6698 × 6)*
+4. Dataset Shape After Removing Blank Rows:
+<p align="center">
+<em>(6698 × 6)</em>
+</p>
 
 ## Finding 2
 1. The dataset contains 4911 duplicates. Duplicates are identified from the *(Data Tab)* → *(Remove Duplicates)* → *(Select All Columns)*
