@@ -21,4 +21,5 @@
 <p align="center">
   <em>=IF (ISNUMBER (A2:A1788), "Number", "NaN")</em>
 </p>
+
 2. Complete report of the data types is saved on *./Reports/Data_Types.pdf*
