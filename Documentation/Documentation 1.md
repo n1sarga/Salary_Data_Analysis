@@ -10,3 +10,7 @@
 ## Finding 2
 1. The dataset contains 4911 duplicates. Duplicates are identified from the *(Data Tab)* → *(Remove Duplicates)* → *(Select All Columns)*
 2. Dataset Shape After Removing Duplicates: *(1787 × 6)*
+
+# Finding 3
+1. Dataset Headings: *Age*, *Gender*, *Education Level*, *Job Title*, *Years of Experience*, and *Salary*
+2. *Education Level* column contained redundant entries such as *Bachelor's Degree*, *Bachelor's*, *Master's Degree*, *Master's*, etc. Renamed *Bachelor's Degree* → *Bachelor's* and *Master's Degree* → *Master's* by *Editing* → *Find & Select* → *Replace* from *Home Tab*
