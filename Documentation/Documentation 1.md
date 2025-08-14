@@ -6,7 +6,7 @@
 1. Dataset Shape: 6704 rows (Excluding Headings) and 6 columns
 2. Identified blank rows using
 <p align="center">
-    <em>(Ctrl + G) → (Special) → (Blanks)</em>
+    <em>(Ctrl + G) → (Special) → (Blanks)</em><br>
 Then deleted blank rows using 
 </p> 
 <p align="center">
