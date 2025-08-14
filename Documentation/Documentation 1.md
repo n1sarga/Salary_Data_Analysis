@@ -8,7 +8,7 @@
 <p align="center">
     <em>(Ctrl + G) → (Special) → (Blanks)</em>
 </p> 
-Then deleted blank rows using 
+    Then deleted blank rows using 
 <p align="center">
     <em>(Ctrl + -) → (Entire Row)</em>
 </p>
