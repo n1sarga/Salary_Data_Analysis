@@ -34,4 +34,4 @@
     <em>Editing → Find & Select → Replace from Home Tab</em>
 </p>
     
-3. Created a table named <em>Cleaned_Data</em> after data cleaning and saved a pdf version of the table on *./Reports/Dataset/Cleaned_Dataset.pdf*
+3. Created a table named <em>Cleaned_Data</em> after data cleaning and saved a pdf version of the table on *./Reports/Pre_Processing_Report/Cleaned_Dataset.pdf*
