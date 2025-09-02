@@ -45,3 +45,11 @@
     <li><i>Lower Limit = { =Q1 - 1.5 × IQR }</i></li>
     <li><i>Upper Limit = { =Q3 + 1.5 × IQR }</i></li>
 </ul>
+2. For checking if any records of the *Age*, *Years of Experience*, and *Salary* columns contains outlier the following formula is used:
+<p align="center">
+    <em>=IF(OR(Record < Lower Limit, Record > Upper Limit), "Outlier", "Okay")</em>
+</p>
+Example formula for checking the first record of the *Age* column (*Age* is stored in the first or *A* column. Lower limit of *Age* is stored in the third row of *L* column and upper limit is stored in the third row of *M* column.):
+<p align="center">
+    <em>=IF(OR(A2<$L$3, A2>$M$3), "Outlier", "Okay")</em>
+</p>
