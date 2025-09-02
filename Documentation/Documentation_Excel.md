@@ -39,8 +39,8 @@
 ## Checking Outliers on Numerical Columns
 1. Numerical columns in the cleaned dataset are: *Age*, *Years of Experience*, and *Salary*. Created a table named *Outlier* using these columns. To determine the outliers, the following metrics are required:
 <ul>
-    <li><em>Q1 (First quartile of the individual columns) = {=QUARTILE.INC(Table_Name[Column_Name], 1)}</em></li>
-    <li>*Q3 (Third quartile of the individual columns) = {=QUARTILE.INC(Table_Name[Column_Name], 3)}*</li>
+    <li><i>Q1 (First quartile of the individual columns) = {=QUARTILE.INC(Table_Name[Column_Name], 1)}</i></li>
+    <li>Q3 (Third quartile of the individual columns) = {=QUARTILE.INC(Table_Name[Column_Name], 3)}</li>
     <li>*IQR (Inter Quartile Range) = {=Q3 - Q1}*</li>
     <li>*Lower Limit = {=Q1 - 1.5 × IQR}*</li>
     <li>*Upper Limit = {=Q3 + 1.5 × IQR}*</li>
