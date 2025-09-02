@@ -33,7 +33,7 @@
 <p align="center">
     <em>Editing → Find & Select → Replace from Home Tab</em>
     
-3. Saved the cleaned dataset in pdf format on *./Reports/Dataset/Cleaned_Dataset.pdf*
+3. Created a table named <em>Cleaned_Data</em> after data cleaning and saved a pdf version of the table on *./Reports/Dataset/Cleaned_Dataset.pdf*
 
 ## Checked Data Types
 1. Identified data types of each column using a nested formula. For identifying text, *=ISTEXT()* formula is used. Similarly for number, *=ISNUMBER()* is used. The range (A2:A1788 for Age and so on) was given inside the formulas. These formulas were used inside the *=IF()* formula to check if it is a number or a text. Example formula is:
