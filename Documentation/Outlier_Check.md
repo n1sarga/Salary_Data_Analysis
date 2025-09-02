@@ -1,0 +1,17 @@
+## Checking Outliers on Numerical Columns
+1. Numerical columns in the cleaned dataset are: *Age*, *Years of Experience*, and *Salary*. Created a table named *Outlier* using these columns. To determine the outliers, the following metrics are required:
+<ul>
+    <li><i>Q1 (First quartile of the individual columns) = { =QUARTILE.INC(Table_Name[Column_Name], 1) }</i></li>
+    <li><i>Q3 (Third quartile of the individual columns) = { =QUARTILE.INC(Table_Name[Column_Name], 3) }</i></li>
+    <li><i>IQR (Inter Quartile Range) = { =Q3 - Q1 }</i></li>
+    <li><i>Lower Limit = { =Q1 - 1.5 × IQR }</i></li>
+    <li><i>Upper Limit = { =Q3 + 1.5 × IQR }</i></li>
+</ul>
+2. For checking if any records of the *Age*, *Years of Experience*, and *Salary* columns contains outlier the following formula is used:
+<p align="center">
+    <em>=IF(OR(Record < Lower Limit, Record > Upper Limit), "Outlier", "Okay")</em>
+</p>
+Example formula for checking the first record of the *Age* column (*Age* is stored in the first or *A* column. Lower limit of *Age* is stored in the third row of *L* column and upper limit is stored in the third row of *M* column.):
+<p align="center">
+    <em>=IF(OR(A2<$L$3, A2>$M$3), "Outlier", "Okay")</em>
+</p>
