@@ -38,6 +38,9 @@
 6. Power BI Dashboard
    
    [Report](https://github.com/n1sarga/Salary_Data_Analysis/tree/main/Reports/5.%20Power%20BI)
+   
+## Dashboard
+https://github.com/user-attachments/assets/846c41ac-25f1-4ff5-bbe9-598e4226309f
 
 ## KPI Snapshot
 | KPI                  | Value    |
@@ -47,12 +50,8 @@
 | **Average Age**       | 35.14 yrs|
 | **Gender Split**      | 54% Male, 46% Female, <1% Other |
 | **Top Education Level** | Bachelor’s (largest group) |
-   
-## Dashboard
-https://github.com/user-attachments/assets/846c41ac-25f1-4ff5-bbe9-598e4226309f
 
 ## Decisions
-
 | Area               | Observation | Decision |
 |--------------------|-------------|----------|
 | **Education Level** | Higher education leads to significantly higher salaries (PhD > Master’s > Bachelor’s > High School). | Encourage **upskilling and advanced education sponsorships**; prioritize retention of PhD holders. |
@@ -61,6 +60,7 @@ https://github.com/user-attachments/assets/846c41ac-25f1-4ff5-bbe9-598e4226309f
 | **Entry-Level Pay** | Very low salaries for 0–2 years of experience employees compared to later years. | Review **entry-level compensation policies** to stay competitive in attracting young talent. |
 | **Workforce Distribution** | Majority have Bachelor’s/Master’s; High School group is small and lowest paid. | Focus on **training and leadership programs** for Bachelor’s/Master’s; provide **reskilling opportunities** for High School group. |
 | **Overall Workforce Profile** | Average age ~35, average experience ~9 years → mid-career heavy workforce. | Focus on **long-term retention, leadership training, and succession planning**. |
+
 
 
 
