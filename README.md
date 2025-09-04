@@ -38,4 +38,4 @@
 
 ## Ongoing
 ## Dashboard
-<img width="1496" height="866" alt="Dashboard" src="https://github.com/user-attachments/assets/aaf247ee-d66a-4c99-b7ae-efa5ad1bc72a" />
+https://github.com/user-attachments/assets/846c41ac-25f1-4ff5-bbe9-598e4226309f
