@@ -43,7 +43,6 @@
 https://github.com/user-attachments/assets/846c41ac-25f1-4ff5-bbe9-598e4226309f
 
 ## Decisions
-## Final Decisions from Dashboard Insights
 
 | Area               | Observation | Decision |
 |--------------------|-------------|----------|
@@ -53,5 +52,6 @@ https://github.com/user-attachments/assets/846c41ac-25f1-4ff5-bbe9-598e4226309f
 | **Entry-Level Pay** | Very low salaries for 0–2 years of experience employees compared to later years. | Review **entry-level compensation policies** to stay competitive in attracting young talent. |
 | **Workforce Distribution** | Majority have Bachelor’s/Master’s; High School group is small and lowest paid. | Focus on **training and leadership programs** for Bachelor’s/Master’s; provide **reskilling opportunities** for High School group. |
 | **Overall Workforce Profile** | Average age ~35, average experience ~9 years → mid-career heavy workforce. | Focus on **long-term retention, leadership training, and succession planning**. |
+
 
 
