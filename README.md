@@ -37,3 +37,5 @@
    [Documentation](https://github.com/n1sarga/Salary_Data_Analysis/blob/main/Documentation/4.%20Regression_Analysis.md) || [Report](https://github.com/n1sarga/Salary_Data_Analysis/tree/main/Reports/4.%20Regression_Analysis)
 
 ## Ongoing
+## Dashboard
+<img width="1496" height="866" alt="Dashboard" src="https://github.com/user-attachments/assets/aaf247ee-d66a-4c99-b7ae-efa5ad1bc72a" />
