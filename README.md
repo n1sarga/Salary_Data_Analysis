@@ -36,8 +36,10 @@
 
    [Documentation](https://github.com/n1sarga/Salary_Data_Analysis/blob/main/Documentation/4.%20Regression_Analysis.md) || [Report](https://github.com/n1sarga/Salary_Data_Analysis/tree/main/Reports/4.%20Regression_Analysis)
 6. Power BI Dashboard
+   
    [Report](https://github.com/n1sarga/Salary_Data_Analysis/tree/main/Reports/5.%20Power%20BI)
    
 ## Dashboard
 https://github.com/user-attachments/assets/846c41ac-25f1-4ff5-bbe9-598e4226309f
+
 
